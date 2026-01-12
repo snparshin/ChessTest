@@ -1,0 +1,16 @@
+build/
+*.exe
+*.o
+*.obj
+*.dll
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+*_autogen/
+.ninja_deps
+.ninja_log
+.qt/
+build.ninja
+main_old.cpp
